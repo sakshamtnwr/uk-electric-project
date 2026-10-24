@@ -25,7 +25,7 @@ export const Header: React.FC<HeaderProps> = ({ onOpenExplainer, onExportCsv }) 
                 
                 {/* Visible DEMO DATA badge */}
                 <span className="inline-flex items-center px-2 py-0.5 text-xs font-semibold tracking-wider text-amber-800 bg-amber-50 border border-amber-300 rounded">
-                  DEMO DATA
+                  LIVE ELEXON DATA
                 </span>
 
                 <span className="text-xs text-slate-400 hidden sm:inline">·</span>
