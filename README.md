@@ -4,7 +4,7 @@ A dashboard for comparing GB national wind generation forecasts with actual gene
 
 ## Live application
 
-- **Dashboard:** Replace this line with your deployed frontend URL.
+- **Dashboard:** https://uk-electric-frontend.vercel.app
 - **Backend health:** https://uk-electric-backend-theta.vercel.app/api/v1/health
 - **API documentation:** https://uk-electric-backend-theta.vercel.app/docs
 
