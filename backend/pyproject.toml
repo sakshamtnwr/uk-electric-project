@@ -1,0 +1,3 @@
+[tool.vercel]
+# Explicitly point Vercel's Python runtime to the FastAPI app object.
+entrypoint = "app.main:app"

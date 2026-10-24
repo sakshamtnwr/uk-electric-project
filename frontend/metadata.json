@@ -1,0 +1,6 @@
+{
+  "name": "UK Wind Forecast Accuracy Dashboard",
+  "description": "Energy analytics dashboard comparing UK wind generation forecasts against actuals from Elexon BMRS data for power trading and dispatch accuracy evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
